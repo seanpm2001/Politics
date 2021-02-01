@@ -406,6 +406,85 @@ Kevin McCarthy
 
 Child pornography (in all forms)
 
+***
+
+## January 31st 2021 addon
+
+### Support
+
+Anti-rape (all genders)
+
+Equal rights (all genders)
+
+No support for false rape accusations (all genders)
+
+Abortions at all ages (all genders)
+
+Equal pay (all genders)
+
+Equal jobs (all genders)
+
+Equal education (all genders)
+
+Equal opportunities (all genders)
+
+Freedom to marry anyone (all genders)
+
+Same-sex marriage (all genders)
+
+Free healthcare for all
+
+Universal healthcare (the US is 1/33 developed nations that lacks UHC, all 32 other developed nations have it)
+
+
+### Strongly oppose
+
+ISIS/ISIL
+
+Al-Qaeda
+
+Taliban
+
+Jeffrey Epstein
+
+### Presidential ratings
+
+Trump is the worst US president of ALL time as of 2021, beating out Andrew Jackson as the worst US president
+
+Trump is a racist, sexist, paedophillic, stupid, evil monster
+
+### Opinions
+
+Most Republicans NEED to be deplatformed from Twitter, Facebook, etc.
+
+The AR-15 and other semi-automatic and automatic firearms NEED TO BE BANNED from public usage. There is no ethical reason why you would need so many bullets other than to mass murder innocent people, which is not ethical at all. Hunting with an AR-15 would result in significant overkill on everything, and the weapon is too common in mass shootings, especially school shootings
+
+The military needs to be defunded by at least $250,000,000,000.00 ($250B) and more money needs to go into Education
+
+Politicians should have NO power in making/changing technical laws without having intermediate/advanced technical experience in what they are changing
+
+School lunches should be free. It is extremely embarrassing that school lunch debt is a legitimate problem
+
+Donald J Trump needs to be impeached and removed, even after he left office. His actions are not forgivable. He needs to be tried, convicted, stripped of his wealth, and spend the rest of his pathetic life in a maximum security federal prison.
+
+The government really needs to upgrade any system they have that isn't 64 or 128 bit
+
+The PRISM program, along with all other mass surveillance programs need to be abolished
+
+Numbers shouldn't be illegal
+
+Encryption should NOT be outlawed
+
+Copyright needs to be abolished
+
+Global warming is a real threat
+
+Cancel culture is a bad thing in its current state. I feel like it is being used against the wrong people. It goes towards bad people most of the time, but not the even worse people.
+
+China needs to be dealt with. Their government seems worse than the USSR. It is like full-on 1984 there.
+
+***
+
 Please use common sense. Don't gain prejudice and hate on people due to political beliefs. Avoid a "us vs. Them" situation. I plan on going no further with politics.
 
 ***
