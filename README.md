@@ -3,7 +3,7 @@
 
 # Politics repo
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/PirateParty/Images/PPI_signet.svg)
+![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/Green_flag_waving.svg)
 
 # By:
 
@@ -224,9 +224,9 @@ Contributing is not allowed for this project, as this is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Sunday, April 11th 2021 at 5:32 pm)`
+File version: `1 (Monday, 2021 September 6th at 9:34 pm)`
 
-Line count: `0,292`
+Line count: `0,306`
 
 ***
 
@@ -272,6 +272,20 @@ Version 1 (Sunday, April 11th 2021 at 5:32 pm)
 
 > * No other changes in version 0.1
 
+Version 1 (Monday, 2021 September 6th at 9:34 pm)
+
+> Changes:
+
+> * Switched image to the correct political party (Green Party replaces Pirate Party)
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer
+
+> * No other changes in version 2
+
 Version 2 (Coming soon)
 
 > Changes:
@@ -284,7 +298,7 @@ Version 2 (Coming soon)
 
 ### You have reached the end of the README file
 
-[Back to top](#Top) [Exit](https://github.com)
+( [Back to top](#Top) | [Exit](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.duckduckgo.com](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.com/) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ### EOF
 
