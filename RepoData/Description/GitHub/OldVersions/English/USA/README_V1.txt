@@ -1,0 +1,1 @@
+My political information center. My political beliefs should NOT spill out of this repository unless absolutely necessary. If you notice a bad balance of partisan politics on another one of my projects, please report it to me.
