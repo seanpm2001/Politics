@@ -1,17 +1,76 @@
 
 ***
 
+# Legal disclaimer
+
+The opinions in this repository are the opinions of its user (seanpm2001) and not of GitHub or Microsoft corporation, although GitHub/Microsoft may express similar opinions on their own merit, separate from this repository. This repository serves as general information on the political positions of seanpm2001. If you notice politics leaking out of a designated political project by this user, please open an issue regarding political neutrality.
+
+Additionally, this project is licensed under the [GNU General Public v3 license](/LICENSE.txt)
+
+***
+
+# Social disclaimer
+
+You don't have to agree with me on my political views. You shouldn't form a prejudice towards me over my views. This is considered extremist. We are all human in the end. I feel that I am doing the right thing, you may feel disagreement, and this is fine.
+
+I have been working on opening up to discussion with people who have disagreements with me. This repository is available as a starting resource and a general reference to my political views. Most of the time, I try to distance myself from politics. It can get repetitive.
+
+***
+
 # Politics repo
 
 ![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/Green_flag_waving.svg)
 
 # By:
 
-## [Seanpm2001](https://github.com/seanpm2001)
+## [`Seanpm2001`](https://github.com/seanpm2001)
 
 ### Top
 
 # `README.md`
+
+***
+
+## Positions
+
+> **Note** This section may be incomplete/out of date
+
+**General positions**
+
+- Pro-democracy
+- Pro-Human rights
+- - Pro-free speech
+- - Pro-Privacy
+- - Pro-Independence
+- - - Supporting the independence of Hong Kong
+- - - Supporting the independence and sovereignty of Ukraine by Ukraine and not any other country or group
+- - Pro-Abortion
+- - Pro-Feminism
+- - Supporting the LGBTQ+ movement
+- - Anti-segregation
+- - Anti-Slavery
+- Anti-war
+- Anti-capitalism
+- Anti-copyright
+- Anti-fascism ([Antifa](https://github.com/seanpm2001/Profa_Or_Antifa/))
+- - Anti-Mussolini
+- - Anti-Nazism
+- - Anti-Putin
+- - Anti-Stalinism
+- - Anti-Trump
+
+**Affiliations/registration**
+
+- Not currently affiliated with anyone politically **No political affiliations**
+- No plans to register for a political party **Not registered with any political party**
+- No plans to run for a political office **No plans to be a full-time politician**
+
+**Political leaning**
+
+- Left wing/Far left
+- - Green Party (USA)
+- - Democratic Party (USA)
+<!-- - - Pirate Party (Sweden) !-->
 
 ***
 
@@ -222,11 +281,11 @@ Contributing is not allowed for this project, as this is a personal project.
 
 ## About README
 
-File type: `Markdown (*.md)`
+**File type:****z `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-File version: `1 (Monday, 2021 September 6th at 9:34 pm)`
+**File version:** `2 (2023, Wednesday, January 11th at 8:45 pm PST)`
 
-Line count: `0,306`
+**Line count (including blank lines and compiler line):** `0,377`
 
 ***
 
@@ -286,13 +345,25 @@ Version 1 (Monday, 2021 September 6th at 9:34 pm)
 
 > * No other changes in version 2
 
-Version 2 (Coming soon)
+Version 2 (2023, Wednesday, January 11th at 8:45 pm PST)
 
 > Changes:
 
-> * Coming soon
+- [x] Added a legal disclaimer
+- [x] Added a social disclaimer
+- [x] Added the positions section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 2
+- - [x] Added a blank entry for version 3
+- [ ] No other changes in version 2
 
-> * No other changes in version 2
+Version 3 (Coming soon)
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 3
 
 ***
 
